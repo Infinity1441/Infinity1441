@@ -1,9 +1,6 @@
 ### Hi there 👋, I'm Bakhtigul
 
 ## I'm a Software Engineer, and a master's student at Tashkent University of Information Technologies
-
-<br />
-
 ### Skills:
 
 <p align="left"> 
