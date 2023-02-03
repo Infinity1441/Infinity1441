@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Bakhtigul
 
-## I'm a Software Engineer, and a master's student at Tashkent University of Information Technologies
+## I'm a Java Backend Developer, and a master's student at Tashkent University of Information Technologies
 ### Skills:
 
 <p align="left"> 
