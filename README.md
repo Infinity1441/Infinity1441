@@ -19,6 +19,11 @@
 	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
 </p>
+<p>
+<b>PL/PGSQL</b>
+<br>
+<b>Jakarta EE 10, Servlet 6, JSP, JSTL, Jakarta Persistence API, Hibernate, Multithreading, JDBC, Telegram bot API, OOP, Collections Framework, Stream API</b>
+</p>
  <p>
 	<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>&nbsp;&nbsp;
